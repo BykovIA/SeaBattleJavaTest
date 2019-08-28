@@ -1,1 +1,3 @@
 # SeaBattleJavaTest
+Java
+JavaFX
